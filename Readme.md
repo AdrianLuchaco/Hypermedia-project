@@ -31,5 +31,7 @@ Overall, the design reflects a clean, young, and tech-oriented identity consiste
 
 ------------------------------------------------------------------------------
 
-### Link to Figma Project
+### Links
 [View the Figma Design](https://www.figma.com/design/hG4d8tw6QA5ECcfe3uW7YB/Figma-CV?node-id=0-1&t=msgSFPkrJwMUo4p8-1)
+[View CV web](
+
